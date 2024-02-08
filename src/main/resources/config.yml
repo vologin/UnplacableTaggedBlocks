@@ -1,0 +1,4 @@
+unplacable-custommodeldata:
+  # Here you can add CustomModelData tags to prevent blocks with this tag to be placed, example:
+
+  - 908
