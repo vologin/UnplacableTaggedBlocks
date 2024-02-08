@@ -1,4 +1,4 @@
 name: UnplacableTaggedBlocks
-version: '${project.version}'
+version: '1.0.0'
 main: org.poster.unplacabletaggedblocks.UnplacableTaggedBlocks
 api-version: '1.20'
