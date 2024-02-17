@@ -5,4 +5,4 @@
 ## Installation
 - Go to [Releases](https://github.com/Vologin/UnplacableTaggedBlocks/releases) and download version you need
 - Copy & Paste `.jar` file in the server `./plugins` folder
-- After plugin will be enabled don't forget to change your header with footer in `./plugins/UnplacableTaggedBlocks/config.yml`
+- After plugin will be enabled don't forget to change values in `./plugins/UnplacableTaggedBlocks/config.yml`
